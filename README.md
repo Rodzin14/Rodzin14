@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Me chamo Bruno, e tenho alguns anos de (pouca) experiência com programação.
-Já realizei diversos cursos, técnicos e atualmente fazendo bacharelado.
-🤔 Penso se seguirei carrera como programador... vamos concordar que não é fácil não é?!
+Me chamo Bruno, e tenho alguns anos de (pouca) experiência com programação. <br />
+Já realizei diversos cursos, técnicos e atualmente fazendo bacharelado. <br />
+🤔 Penso se seguirei carrera como programador... vamos concordar que não é fácil não é?! <br />
 
 💬 Estou aberto para troca de conhecimento! Afinal, nunca é de mais.
 
