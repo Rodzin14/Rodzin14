@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem-vind@! 👋
 
 <!--
 **Rodzin14/Rodzin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Me chamo Bruno, e tenho alguns anos de (pouca) experiência com programação.
+Já realizei diversos cursos, técnicos e atualmente fazendo bacharelado.
+🤔 Penso se seguirei carrera como programador... vamos concordar que não é fácil não é?!
+
+💬 Estou aberto para troca de conhecimento! Afinal, nunca é de mais.
+
+    ⚡ Bora Codar! ⚡
